@@ -196,8 +196,10 @@ const sta_fd=createNode({
 
 const data = {
   orgChart_data: {
-    mobile_breakpoint: mobile_breakpoint,
-    connector_color:"black",
+    options:{
+      mobile_breakpoint: mobile_breakpoint,
+      connector_color:"black",
+    },
     root: {
       node:gcio,
       branches:{

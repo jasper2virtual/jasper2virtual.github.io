@@ -168,8 +168,9 @@ const chief_occupational_safety_officer_ss = createNode({
 
 const data = {
   orgChart_data: {
-    mobile_breakpoint: "sm",
-    connector_color: "black",
+    options:{
+      connector_color: "black",
+    },
     root: {
       node: commissioner,
       branches: {

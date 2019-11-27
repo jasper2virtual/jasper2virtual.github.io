@@ -97,7 +97,9 @@ const land_transport = createNode({
 
 const data = {
   orgChart_data: {
-    mobile_breakpoint: "sm",
+    options:{
+      connector_color:'red'
+    },
     root: {
       node: director,
       branches: {
