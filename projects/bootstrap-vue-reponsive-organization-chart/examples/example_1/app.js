@@ -30,7 +30,7 @@ const admin = createNode({
         <div class="title">Administration Division</div>
         <div>Tony WONG</div>
         <div>Departmental Secretary</div>
-        <div class="phone">2231 5115</a>
+        <div class="phone">2231 5115</div>
         <div>&nbsp;</div>
         <div>Accounts Section</div>
         <div>Ms Doris CHEUNG</div>
