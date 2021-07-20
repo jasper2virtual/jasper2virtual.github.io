@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: ''
+title: INIT HELLO
+subtitle: '男人四十冇得撈'
 description: ''
 keywords:
-author: John Doe
+author: Jasper Lai
 language: en
-timezone: ''
+timezone: 'Hongkong'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com
+url: https://jasper2virtual.github.io/project
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
